@@ -1,3 +1,5 @@
+本仓库是用来学习使用，内容来自网络
+
 ## Introduction
 
 This repository is an universal React-ES6-Webpack boilerplate for developer to quickly build a super fast and powerful web app that can be rendered on the client using the most cutting-edge technology. Compared to others, this boilerplate has more pithily and more elegant configuration file based on environment variables, one for development, one for production.
